@@ -16,7 +16,7 @@ This app was to be a resource for consumers to find out what fruits & vegetables
 
 Users of the app could check out indivdual farms and their offerings, and also (and likely more realistically) check out which farms (and their product) would be avaiable at their local market.
 
-# Current Status
+## Current Status
 
 This app is a work in progress, and is not at the place where it is ready for public consumption. The back-end models need to include veggie/fruit booleans for Farms to easily display available items.
 
