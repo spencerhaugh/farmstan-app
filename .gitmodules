@@ -1,0 +1,6 @@
+[submodule "farmers_market_api"]
+	path = farmers_market_api
+	url = https://github.com/danseiders/farmers_market_api
+[submodule "farmers_market_client"]
+	path = farmers_market_client
+	url = https://github.com/danseiders/farmers_market_client
